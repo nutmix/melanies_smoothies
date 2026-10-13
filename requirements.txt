@@ -1,3 +1,6 @@
+snowflake-snopark-python
+streamlit
+
 definition_version: 2
 entities:
   streamlit_app:
